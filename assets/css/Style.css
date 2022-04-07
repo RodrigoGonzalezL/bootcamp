@@ -1,0 +1,67 @@
+nav {
+    background-color: #373A3C;
+}
+
+#ricomida1,
+#ricomida2,
+#ricomida3,
+#ricomida4 {
+    font-family: 'Lobster', cursive;
+}
+
+hr {
+    opacity: 1;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+
+#recipe h4 {
+    text-decoration: underline;
+}
+
+#newsletter #p1 {
+    font-size: 45px;
+    color: white;
+    font-weight: 700;
+}
+
+#newsletter #p2 {
+    font-size: 30px;
+    color: white;
+}
+
+#ricomida3 {
+    font-size: 30px;
+    color: white;
+}
+
+
+/*#red h5 {
+    font-size: 30px;
+}
+
+#red p {
+    font-size: 25px;
+}*/
+
+.toggler {
+    font-weight: 800;
+}
+
+footer {
+    height: 150px;
+    background-color: #373A3C;
+    color: white;
+}
+
+footer h2 {
+    font-size: 45px;
+}
+
+#newsletter {
+    height: 400px;
+    background-color: red;
+}
